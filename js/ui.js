@@ -229,7 +229,7 @@ const ui = {
             <button class="btn btn-danger btn-sm"
               onclick="ui.confirmDeleteDriver(${d.id}, '${d.name}')">ELIMINAR</button>
             <button class="btn btn-outline btn-sm"
-              onclick="ui.showDriverResults(${d.id}, '${d.name}')">RESULTADOS</button>
+              onclick="ui.showDriverResults(${d.id}, '${d.name}')">RESULTS</button>
           </div>
         </div>
       </div>

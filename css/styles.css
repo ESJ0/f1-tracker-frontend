@@ -476,6 +476,15 @@ body {
     margin-top: 12px;
     padding-top: 12px;
     border-top: 1px solid var(--border);
+    flex-wrap: wrap;
+}
+
+.driver-actions .btn {
+    flex: 1;
+    min-width: 0;
+    text-align: center;
+    padding: 6px 8px;
+    font-size: 10px;
 }
 
 
