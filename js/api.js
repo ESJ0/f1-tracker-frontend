@@ -1,4 +1,4 @@
-const API_BASE = 'http://localhost:8080';
+const API_BASE = 'https://f1-tracker-backend.onrender.com';
 
 const api = {
 
