@@ -19,6 +19,10 @@ Cliente en JavaScript vanilla para la API de F1 Tracker. Sin frameworks, sin lib
 
 ---
 
+## Screenshot
+
+![Screenshot del frontend](assets/docs/Screenshot-frontend.png)
+
 ## Correr localmente
 
 No requiere ningún paso de build.
